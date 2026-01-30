@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APIConnectApp</string>
+    <string name="app_header">API Connect App</string>
+    <string name="fetch_button">FETCH DATA</string>
+</resources>
